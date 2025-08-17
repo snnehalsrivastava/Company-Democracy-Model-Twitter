@@ -103,14 +103,4 @@ To implement these leadership styles and foster a democratic culture, the follow
 
 This project demonstrates how the **Company Democracy Model (CDM)** can be incorporated into Twitter's operations ``. It addresses the existing and new challenges Twitter faces under Musk's leadership ``. The introduction of the **"Democratic Kaizen"** level provides an enhanced framework for continuous improvement ``. By implementing strategic goals like developing new services, regaining customer trust, and fostering a democratic company culture, Twitter can achieve further growth ``. The proposed leadership styles (**Democratic and Laissez-Faire**) and activities are crucial for sustaining Twitter's market position through increased transparency and communication ``. This new proposed level, "Democratic Kaizen," can be utilized by all organizations in conjunction with the CDM model ``.
 
-## Team Members
-
-*   **SRIVASTAVA, SNEHAL**
-*   **IQBAL, MYER ALI**
-*   **LIN, CHUNG-WEN** 
-*   **MANGAL, RIYA** 
-*   **QAZI, UMAMAH** 
-*   **RAHMAN, ABDUL** 
-
-
 ---
